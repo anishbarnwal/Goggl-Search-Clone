@@ -3,3 +3,6 @@ I developed the clone of the Google where you can search for anything and it wil
 # Goggl - The Most Unique Search Engine in the World
 
 ![Goggl](https://i.ibb.co/yQdYhtq/image.png)
+
+I also deployed this project on netlify apps.
+https://goggl-search.netlify.app/
